@@ -16,5 +16,5 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 If you'd like to run this project locally:  
 
 ```sh
-git clone https://github.com/techebuzz/portfolio 1.git  
+git clone https://github.com/techebuzz/portfolio1.git  
 cd portfolio 1  
